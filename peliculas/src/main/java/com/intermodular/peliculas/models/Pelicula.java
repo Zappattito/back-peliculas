@@ -32,3 +32,4 @@ public class Pelicula {
     public int getAnio() { return anio; }
     public void setAnio(int anio) { this.anio = anio; }
 }
+//esta es una anotación de que el control de versiones funciona GitHub
